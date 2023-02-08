@@ -12,7 +12,11 @@ paper link:
 <br/> (2) 맞춤형 수요이전 제안 시스템
 <br/>   · 에너지 사용 학습관리 및 위 (1)과 연계되는 수요이전 제안 시스템
 <br/> (3) 위 (2)를 위한 연동 제어 시스템(지능형 스케쥴 제어) 설계
-<img src = "https://user-images.githubusercontent.com/104756502/217471745-52e326e9-85ab-497f-8882-4dd6eb3ffad0.png" width="200" height="400">
+<br/> <p align="left"> <img src = "https://user-images.githubusercontent.com/104756502/217471745-52e326e9-85ab-497f-8882-4dd6eb3ffad0.png" width="250" height="300"> <br/>
+
+### 사용데이터
+Smart Home Dataset with weather Information(https://www.kaggle.com/datasets/taranvee/smart-home-dataset-with-weather-information/code?select=HomeC.csv)
+<br/> <img src =https://user-images.githubusercontent.com/104756502/217474586-9cd20ef2-7eb8-4588-9ee5-57cd0cd97ec5.png width="400" height="150">
 
 ### 파일 설명
 1. Device predict file
