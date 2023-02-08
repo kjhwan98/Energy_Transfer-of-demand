@@ -12,7 +12,7 @@ paper link:
 <br/> (2) 맞춤형 수요이전 제안 시스템
 <br/>   · 에너지 사용 학습관리 및 위 (1)과 연계되는 수요이전 제안 시스템
 <br/> (3) 위 (2)를 위한 연동 제어 시스템(지능형 스케쥴 제어) 설계
-![그림1](https://user-images.githubusercontent.com/104756502/217471745-52e326e9-85ab-497f-8882-4dd6eb3ffad0.png)
+<img src = "https://user-images.githubusercontent.com/104756502/217471745-52e326e9-85ab-497f-8882-4dd6eb3ffad0.png" width="200", height="400">
 
 ### 파일 설명
 1. Device predict file
