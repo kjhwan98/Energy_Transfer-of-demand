@@ -49,3 +49,6 @@ Smart Home Dataset with weather Information(https://www.kaggle.com/datasets/tara
 
 8. transfer
 <br/> 최대부하시간에서의 클러스터링이 1인 전력량들을 경부하시간대로 이전
+
+9. Savingrate
+<br/> 수요이전을 통한 요금절감률 계산
