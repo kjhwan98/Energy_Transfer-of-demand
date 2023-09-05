@@ -1,6 +1,6 @@
 ## Energy_Transfer-of-demand
 
-paper link: 
+paper link: https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002956737
 
 ### 기술 개요
 우리나라는 빠른 GDP 성장과 함께 에너지 소비량이 계속해서 증가하고 있다. 이에 따라 에너지 효율화가 중요시되고 있다. 이에 따라 에너지 효율 향상으로 소비감축을 시행하는 새로운 에너지 시스템이 대두
